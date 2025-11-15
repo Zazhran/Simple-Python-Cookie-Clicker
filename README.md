@@ -9,7 +9,7 @@ This project is created for learning basic programming concepts such as variable
 - Click cookies to increase your total
 - Upgrade your click power
 - Upgrade costs that scale
-- Simple text-based menu
+- Simple text-based menu (with a lil bit ASCII art)
 - Data stored inside variables (no external libraries)
 - Fully beginner-friendly structure
 
